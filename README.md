@@ -1,4 +1,4 @@
-<doctype!html>
+<!doctypehtml>
 <html>
   <html>
 <header> <strong> hello world </strong> </header>
